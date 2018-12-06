@@ -5,14 +5,14 @@
 ---
 ### Professors: Karen Chapple, Abby Cochran
 
-### Development Team: Alex Nakagawa, Divinee Chudime, Kseniya Usovich, Timlan Wong
+### Development Team: Alex Nakagawa, Divinee Chidume, Kseniya Usovich, Timlan Wong
 This is the official repository of the City Planning (CP) 101 class at UC Berkeley. The goal of the modules team for this class is to develop comprehensive Jupyter Notebooks for several labs that the students of the class will be conducting.
 
 The assignments for each team member are listed below:
 
 | Lab Number      | Dev. Name       | Rough Draft Due  | Status                 |
 | :-------------: | :-------------: | :-------------:  | :--------------------: |
-| 08              |  TBD            | TBD              | -                      |
+| 01              | Divinee Chidume | December 5       | Incomplete               |
 | 09              |  TBD            | TBD              | -                      |
 | 10              |  TBD            | TBD              | -                      |
 | 11              |  TBD            | TBD              | -                      |
